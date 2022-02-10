@@ -21,7 +21,7 @@
 
 ### Краткая информация о данных
 dst-3.0_16_1_hh_database.csv - база данных с резюме, выгруженная с сайта поиска вакансий hh.ru
-Project_1.ipynb - ноутбук-шаблон от SF
+Project_1.ipynb - ноутбук-шаблон от SF (https://drive.google.com/file/d/1tGwsg610HNhZME9ur7GhkDHeZj6DehYj/view?usp=sharing   - ссылка на Google Drive)
 ExchangeRates.csv - база данных курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
